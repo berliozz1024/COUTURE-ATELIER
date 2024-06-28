@@ -1,4 +1,4 @@
-![image](https://github.com/berliozz1024/COUTURE-ATELIER/assets/173150698/76415a27-f8af-4ca0-9552-6b8e423374cf)# COUTURE ATELIER
+# COUTURE ATELIER
 <h1>content</h1> 
  <ul>
   <li>Introduction</li>
@@ -19,7 +19,7 @@ By giving our brand the name Couture Atelier, it won’t just be a name anymore,
 # Wix
 ![image](https://github.com/berliozz1024/COUTURE-ATELIER/assets/173150698/af91efed-50a4-4d00-b5b3-e03a9c545a59)
 
-![image](https://github.com/berliozz1024/COUTURE-ATELIER/assets/173150698/bee67f0c-7b77-42db-852c-2e7d0d883501)
+![image](https://github.com/berliozz1024/COUTURE-ATELIER/assets/173150698/76415a27-f8af-4ca0-9552-6b8e423374cf)
 
 
 Here are sample page of wix
