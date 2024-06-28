@@ -8,10 +8,12 @@
   </ul>
 
 # Introduction
+
+This is our Logo
+
 ![image](https://github.com/berliozz1024/COUTURE-ATELIER/assets/173150698/63369476-e8b7-4692-9131-0d0664ad04bc)
 
 
-This is our logo
 
 By giving our brand the name Couture Atelier, it won’t just be a name anymore, but a philosophy that outlines all our work. With our fashion being classically luxurious in their modernity and their alternativeness, we provide clothes for people who seek both elegance and a bit of avant-garde. We set up standards for the perfect look in our garments, which are developed with top materials and a high level of quality, guaranteeing that they will be your valued pieces in the wardrobe for many years. Nevertheless, we do not rely all that much on tradition. Our couture atelier creates an atmosphere of contemporary influences in our designs to keep your trend setting at the top of fashion. Welcome to a world in which heritage joins innovation and in which all the collections are amazing masterpieces worth finding. 
 
