@@ -7,7 +7,7 @@
   <li>User Manual</li>
   </ul>
 
-    # Introduction
+# Introduction
 ![Logo](https://github.com/Jiazhen222/Healthy-Snack/assets/173336505/f967d01b-2696-46b4-87bc-068419612089) 
 
 This is our logo
