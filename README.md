@@ -12,14 +12,14 @@
 
 This is our logo
 
-We are delighted to invite you to Healthy Snacks, a place where you can find healthy, tasty and nourishing snacks. We have several products based on fruit and nuts that are perfect for eating, and they help you get healthy. These snacks are made from pure natural ingredients, thus combining good taste with healthy. We have a wide range of options for you; there are quick snacks in pocket packs and exquisite collections for any time of day. Enjoy!
+EXP
 
 # Wix
 ![image](https://github.com/Jiazhen222/Healthy-Snack/assets/173336505/d8506916-1fb4-42db-bd00-14720aed67ef)
 
 Here are sample page of wix
 
-Wix is a powerful platform used to build and manage our Healthy Snack website. With its intuitive drag-and-drop interface, Wix allows us to create a visually appealing and highly functional website without extensive coding knowledge. Here are the link.
+EXP WIX
 
 URL link:[https://hongshi2003.wixsite.com/my-site-8/my-blog]
 
@@ -30,7 +30,7 @@ URL link:[https://hongshi2003.wixsite.com/my-site-8/my-blog]
 
 Example page of figma
 
-Figma is an essential tool in designing our Healthy Snack website. It allows us to create a visually appealing and user-friendly interface. Using Figma, we can design interactive prototypes, ensuring a seamless user experience. Here are the link.
+EXP FIGMA
 
 URL link[https://www.figma.com/design/Bk41Ecx4PgdVQRE6RPHWKq/LDCW?node-id=63-263]
 
